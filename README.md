@@ -2,7 +2,7 @@
 
 ## 📌 Project Objective
 
-Excel Retail Insights Dashboard is a dynamic sales analysis tool built in Microsoft Excel to track and evaluate key performance indicators such as total orders, revenue, and quantity sold. It offers interactive visualizations like bar and pie charts, powered by Pivot Tables and Slicers, to analyze sales by branch, location, product group, and payment method. This project helps identify top-performing segments, customer preferences, and revenue drivers—supporting data-driven decision-making for sales growth and operational efficiency.  
+Amazon Retail Insights Dashboard is a dynamic sales analysis tool built in Microsoft Excel to track and evaluate key performance indicators such as total orders, revenue, and quantity sold. It offers interactive visualizations like bar and pie charts, powered by Pivot Tables and Slicers, to analyze sales by branch, location, product group, and payment method. This project helps identify top-performing segments, customer preferences, and revenue drivers—supporting data-driven decision-making for sales growth and operational efficiency.  
 
 
 ---
